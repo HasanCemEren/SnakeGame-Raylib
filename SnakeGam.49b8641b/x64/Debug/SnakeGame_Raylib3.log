@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\main.cpp(86,65): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\main.cpp(86,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\main.cpp(90,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\main.cpp(91,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  SnakeGame_Raylib3.vcxproj -> C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\x64\Debug\SnakeGame_Raylib3.exe

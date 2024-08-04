@@ -1,0 +1,2 @@
+C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\x64\Debug\raylib.dll
+C:\Users\cemer\source\repos\SnakeGame_Raylib3\SnakeGame_Raylib3\SnakeGam.49b8641b\x64\Debug\SnakeGam.6DF35D65.Up2Date
